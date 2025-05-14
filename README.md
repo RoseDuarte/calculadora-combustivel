@@ -17,7 +17,8 @@ Projeto desenvolvido com React + TypeScript durante o curso **Fullstack Pro** do
 
 ## 📷 Captura de tela
 
-(Adicione aqui um print da aplicação, se possível)
+![Captura de tela 1](src/assets/captura-tela.png)
+![Captura de tela 2](src/assets/captura-tela2.png)
 
 ## 📚 Aprendizados
 
